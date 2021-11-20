@@ -1,9 +1,9 @@
 # cosmicvfx#5436
 
-Hello I am Cosmic, I am Java and Python developer who creates Discord bots and Minecraft Plugins.<hr>
-<hr>
+Hello I am Cosmic, I am Java and Python developer who creates Discord bots and Minecraft Plugins.
+
 My goal is to improve and learn.
-<hr>
+
 I am currently working on the [5Blender DiscordBot](https://github.com/cosmic-vfx/5BlenderJDABot) and [The RPS Discord bot](https://rpswebsite.herokuapp.com) *(Please keep in mind that the website is a work in progress)*<hr>
 <hr>
 My Socials(?);
