@@ -24,3 +24,4 @@ Languages that I know;
 | Java      | Fluent     |
 | Python    | Semi-Fluent|
 | Html      | Semi-Fluent|
+|-----------|------------|
