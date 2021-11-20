@@ -9,10 +9,13 @@ I am currently working on the [5Blender DiscordBot](https://github.com/cosmic-vf
 My Socials(?);
 
 [Twitter](https://twitter.com/CosmicVFX_)
+
 Discord: cosmicvfx#5436
+
 Minecraft IGN: 5qrks
 
 My Hobbies;
+
 I am a beginner in Blender, a 3D Modelling software. I try to do Visual Art on Fortnite Characters.
 
 My Friends;
