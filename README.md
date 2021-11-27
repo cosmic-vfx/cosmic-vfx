@@ -30,4 +30,3 @@ I am a beginner in Blender, a 3D Modelling software. I try to do Visual Art on F
 | Java      | Fluent     |
 | Python    | Semi-Fluent|
 | Html      | Semi-Fluent|
-|-----------|------------|
