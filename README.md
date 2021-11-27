@@ -22,7 +22,7 @@ I am a beginner in Blender, a 3D Modelling software. I try to do Visual Art on F
 
 <b>My Friends;</b>
 
-[acatia](https://github.com/acatiadroid)
+[acatia](https://github.com/acatiadroid), [minioof/18O4](https://github.com/minioof), [Xaateh/Xath](https://github.com/xaateh)
 
 <b>Languages that I know;</b>
 | Language  | Knowledge  |
