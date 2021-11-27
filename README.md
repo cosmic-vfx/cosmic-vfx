@@ -6,6 +6,8 @@ My goal is to improve and learn.
 
 I am currently working on the [5Blender DiscordBot](https://github.com/cosmic-vfx/5BlenderJDABot) and [The RPS Discord bot](https://rpswebsite.herokuapp.com) *(Please keep in mind that the website is a work in progress)*
 
+Past projects are [ExtraBoomerangs](https://github.com/cosmic-vfx/ExtraBoomerangs) and [SuperPickaxe](https://github.com/cosmic-vfx/SuperPickaxe)
+
 <b>My Socials(?);</b>
 
 [Twitter](https://twitter.com/CosmicVFX_)
