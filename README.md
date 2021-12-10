@@ -14,7 +14,7 @@ Past projects are [ExtraBoomerangs](https://github.com/cosmic-vfx/ExtraBoomerang
 
 Discord: cosmicvfx#5436
 
-Minecraft IGN: 5qrks
+Minecraft IGN: Developlng [L not i]
 
 <b>My Hobbies;</b>
 
