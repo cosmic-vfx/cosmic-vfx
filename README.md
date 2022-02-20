@@ -9,11 +9,11 @@
   </div>
 <br>
 <h3 align="center">Current Projects</h3><br>
-I am currently working on acatia's <a href="https://github.com/acatiadroid/music-player">music player</a>, I am creating the webpage for the player. <br>
+<p>I am currently working on acatia's <a href="https://github.com/acatiadroid/music-player">music player</a>, I am creating the webpage for the player.</p> <br>
 
 <br>
 h3 align="center">Past Projects</h3><br>
-I have previously worked on the <a href="https://rpswebsite.herokuapp.com">RPS</a> discord bot, the <a href="https://github.com/cosmllc/5blenderbot">5Blender</a> discord bot, An <a href="https://gamepasstimer.herokuapp.com">Xbox Gamepass Timer</a> and more!<br>
+<p>I have previously worked on the <a href="https://rpswebsite.herokuapp.com">RPS</a> discord bot, the <a href="https://github.com/cosmllc/5blenderbot">5Blender</a> discord bot, An <a href="https://gamepasstimer.herokuapp.com">Xbox Gamepass Timer</a> and more!</p><br>
 </div>
 <h3 align="center">Github Stats[kinda bad]</h3>
 ![img](https://github-readme-stats.vercel.app/api?username=cosmllc&show_icons=true&theme=radical)
