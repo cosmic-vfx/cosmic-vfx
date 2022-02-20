@@ -11,7 +11,7 @@ I am currently working on acatia's <a href="https://github.com/acatiadroid/music
 
 <br>
 h3 align="center">Past Projects</h3><br>
-I have previously worked on the <a href="https://rockpaperscissorsbot.herokuapp.com">RPS</a> discord bot, the [5Blender](https://github.com/cosmllc/5blenderbot) discord bot, An [Xbox Gamepass Timer Countdown](https://gamepasstimer.herokuapp.com) and more!<br>
+I have previously worked on the <a href="https://rpswebsite.herokuapp.com">RPS</a> discord bot, the <a href="https://github.com/cosmllc/5blenderbot">5Blender</a> discord bot, An <a href="https://gamepasstimer.herokuapp.com">Xbox Gamepass Timer</a> and more!<br>
 <h3 align="center">Github Stats[kinda bad]</h3><br>
 ![img](https://github-readme-stats.vercel.app/api?username=cosmllc&show_icons=true&theme=radical)<br>
 ![img](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmllc&theme=radical&layout=compact)
