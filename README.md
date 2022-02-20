@@ -1,3 +1,4 @@
+<div>
 <h1 align="center" style="color: #adeeef">cosmicvfx#5436</h1>
 <p>Hello, I am Cosmic a Web Developer and Designer, I also code things in Java and some JS.</p>
 <div align="center">
@@ -16,3 +17,4 @@ I have previously worked on the <a href="https://rpswebsite.herokuapp.com">RPS</
 <h3 align="center">Github Stats[kinda bad]</h3><br>
 ![img](https://github-readme-stats.vercel.app/api?username=cosmllc&show_icons=true&theme=radical)<br>
 ![img](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmllc&theme=radical&layout=compact)
+</div>
