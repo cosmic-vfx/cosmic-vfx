@@ -4,9 +4,9 @@
    <p>Hello, I am Cosmic a Web Developer and Designer, I also code things in Java and JS.</p>
 
   <h3 align="center">Links</h3><br>
-  [Website](https://cosmicdev.tk)<br>
-  [Discord](https://cosmicdev.tk/discord)<br>
-  [Twitter](https://twitter.com/CosmicVFX_)<br>
+  [Website](https://cosmicdev.tk)
+  [Discord](https://cosmicdev.tk/discord)
+  [Twitter](https://twitter.com/CosmicVFX_)
   <br>
   <h3 align="center">Current Projects</h3><br>
   I am currently working on acatia's [music player](https://github.com/acatiadroid/music-player), I am creating the webpage for the player.<br>
