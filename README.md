@@ -1,9 +1,6 @@
-<center>
-  <h1 style="color: #adeeef">cosmicvfx#5436</h1>
-  
-  
-  
-</center>
+
+  <h1 style="color: #adeeef" align="center">cosmicvfx#5436</h1>
+
 
 
 ![img](https://github-readme-stats.vercel.app/api?username=cosmllc&show_icons=true&theme=radical)<br>
