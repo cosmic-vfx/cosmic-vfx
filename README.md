@@ -1,6 +1,5 @@
-<html>
+
 <h1 align="center" style="color: #adeeef">cosmicvfx#5436</h1>
-</html>
 <p>Hello, I am Cosmic a Web Developer and Designer, I also code things in Java and JS.</p>
 
 <h3 align="center">Links</h3><br>
