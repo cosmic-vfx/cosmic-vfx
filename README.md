@@ -1,10 +1,11 @@
 <h1 align="center" style="color: #adeeef">cosmicvfx#5436</h1>
 <p>Hello, I am Cosmic a Web Developer and Designer, I also code things in Java and some JS.</p>
-
+<div align="center">
 <h3 align="center">Links</h3><br>
 <a href="https://cosmicdev.tk/">Website</a> <br>
 <a href="https://cosmicdev.tk/discord">Discord</a> <br>
 <a href="https://twitter.com/CosmicVFX_">Twitter</a> <br>
+  </div>
 <br>
 <h3 align="center">Current Projects</h3><br>
 I am currently working on acatia's <a href="https://github.com/acatiadroid/music-player">music player</a>, I am creating the webpage for the player. <br>
