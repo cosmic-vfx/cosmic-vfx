@@ -4,7 +4,7 @@
 <p>Hello, I am Cosmic a Web Developer and Designer, I also code things in Java and JS.</p>
 
 <h3 align="center">Links</h3><br>
-[Website](https://cosmicdev.tk)
+[Website](https://cosmicdev.tk/)
 [Discord](https://cosmicdev.tk/discord)
 [Twitter](https://twitter.com/CosmicVFX_)
 <br>
