@@ -5,7 +5,7 @@
 
   <p>I've made quite a few projects and you can view most of them on my repositiories</p>
 
-  <p>Currently Working on: [acatia's music player](https://github.com/acatiadroid/music-player). I am coding the website.</p>
+  <p>Currently Working on: </p>[acatia's music player](https://github.com/acatiadroid/music-player)<p>. I am coding the website.</p>
 
   ![img](https://github-readme-stats.vercel.app/api/top-langs/?username=acatiadroid&theme=onedark&layout=compact)
   
