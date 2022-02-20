@@ -7,7 +7,7 @@
 
   <p>Currently Working on: https://github.com/acatiadroid/music-player. I am coding the website.</p>
 
-![img](https://github-readme-stats.vercel.app/api?username=cosmllc&show_icons=true&theme=radical)
+![img](https://github-readme-stats.vercel.app/api?username=cosmllc&show_icons=true&theme=radical) <br>
 ![img](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmllc&theme=radical&layout=compact)
   
 </div>
