@@ -8,7 +8,8 @@
 [Twitter](https://twitter.com/CosmicVFX_)
 <br>
 <h3 align="center">Current Projects</h3><br>
-I am currently working on acatia's [music player](https://github.com/acatiadroid/music-player), I am creating the webpage for the player.<br>
+I am currently working on acatia's [music player](https://github.com/acatiadroid/music-player), I am creating the webpage for the player. <br>
+
 <br>
 h3 align="center">Past Projects</h3><br>
 I have previously worked on the [RPS](https://rockpaperscissors.herokuapp.com) discord bot, the [5Blender](https://github.com/cosmllc/5blenderbot) discord bot, An [Xbox Gamepass Timer Countdown](https://gamepasstimer.herokuapp.com) and more!<br>
