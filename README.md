@@ -5,7 +5,7 @@
 
   <p>I've made quite a few projects and you can view most of them on my repositiories</p>
 
-  <p>Currently Working on: [Flipped](https://github.com/cosrnic/Flipped). Flipped is a Fabric 1.19 Mod that flips the player like Dinnerbone's player model.</p>
+  <p>Currently Working on: <a href="https://github.com/cosrnic/Flipped">Flipped</a>. Flipped is a Fabric 1.19 Mod that flips the player like Dinnerbone's player model.</p>
 
 ![img](https://github-readme-stats.vercel.app/api?username=cosrnic&show_icons=true&theme=radical) <br>
 ![img](https://github-readme-stats.vercel.app/api/top-langs/?username=cosrnic&theme=radical&layout=compact)
