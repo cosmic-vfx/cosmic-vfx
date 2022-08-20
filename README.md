@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>cosrnic#5436</h1>
+  <h1>cosmic#5436</h1>
   
   <p>Hello, I am Cosmic, I am trying to become a Web Developer/Designer. I also program things in Java and sometimes JS[mostly ReactJS]</p>
 
