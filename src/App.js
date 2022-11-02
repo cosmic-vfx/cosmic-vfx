@@ -125,6 +125,16 @@ export default function App() {
                                 </div>
                             </div>
                         </div>
+                        <div>
+                            <a
+                                href="https://lanyard-cards.cosrnic.uk"
+                                className="hover:text-sky-500 transition-all duration-100 ease-linear hover:underline"
+                                rel="noreferrer"
+                                target="_blank"
+                            >
+                                Want your own card? Click here!
+                            </a>
+                        </div>
                     </div>
                 </div>
             </div>
