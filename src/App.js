@@ -8,6 +8,7 @@ import { Location } from "./discord-lanyard/Location";
 import { CgWebsite } from "react-icons/cg";
 import { AiOutlineYoutube, AiOutlineArrowDown } from "react-icons/ai";
 import { FiTwitter, FiGithub } from "react-icons/fi";
+import { Badges } from "./discord-lanyard/Badges";
 import { useLanyard } from "react-use-lanyard";
 const DISCORD_ID = "508662064063971348";
 export default function App() {
@@ -71,6 +72,9 @@ export default function App() {
                                         </div>
                                     </div>
                                     <div className="mt-4">
+                                        <div className="flex flex-row gap-[3px] mb-4 justify-center">
+                                            <Badges />
+                                        </div>
                                         <div className="flex flex-col gap-4">
                                             <div>
                                                 <div
